@@ -1,0 +1,3 @@
+INSERT INTO items (item_category, item_name, item_price, item_description, size, qty_stock, instock) VALUES ('T-shirts', 'T-Shirt RMR One', 'Red soft blend cotten tee with RMR signature logo on the back', 24.99, 50, TRUE);
+INSERT INTO items (item_category, item_name, item_price, item_description, size, qty_stock, instock) VALUES ('T-shirts', 'T-Shirt RMR Two', 'Grey medium blend cotten tee with RMR signature logo on the back', 28.99, 50, TRUE);
+INSERT INTO items (item_category, item_name, item_price, item_description, size, qty_stock, instock) VALUES ('T-shirts', 'T-Shirt RMR Three', 'Blue hard blend cotten tee with RMR signature logo on the back', 34.99, 50, TRUE);
